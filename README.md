@@ -11,4 +11,4 @@ Taj Grands owns multiple five-star hotels across India. They have been in the ho
 Tech Stack:
 ![#c5f015](https://www.iconsdb.com/icons/download/color/c5f015/circle-16.png) `Microsoft PowerBI`
 ![#c5f015](https://www.iconsdb.com/icons/download/color/c5f015/circle-16.png) `Microsoft Excel`
-![#c5f015](https://www.iconsdb.com/icons/download/color/c5f015/circle-16.png) `Microsoft MySQL`
+
