@@ -1,4 +1,4 @@
-# Hotel_Analylics
+# Hotel_Analytics
 
 (Part of Codebasics Project Challenge March 2023)
 
